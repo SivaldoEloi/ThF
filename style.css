@@ -1,0 +1,25 @@
+body{
+	background-color: black;
+	margin-left: 25%;
+
+}
+p{
+	width: 500px;
+    height: 150px;
+    margin: 30px;
+    color: white;
+}
+.F{
+	width: 400px;
+	height: 200px;
+	box-shadow: 10px 10px 10px gray;
+}
+h1{
+	color: white;
+}
+h2{
+	color: white;
+}
+h3{
+	color: white;
+}
